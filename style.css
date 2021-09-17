@@ -13,18 +13,22 @@ button {
   font-size: 20px;
   margin-bottom: 30px;
 }
-#count {
+#count-el {
   font-size: 50px;
   font-weight: bold;
 }
-#increment {
+#increment-el {
   background-color: rgb(167, 128, 240);
   margin-right: 30px;
 }
-#save {
+#save-el {
   background-color: red;
 }
 #previous-element {
   font-size: 40px;
   font-weight: bold;
+}
+#reset-el {
+  background-color: greenyellow;
+  margin-left: 30px;
 }
